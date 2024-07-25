@@ -1,6 +1,7 @@
 
 # Blockchain-Based Identity Verification (BBIV)
 
+![DALL·E 2024-07-25 17 06 06 - A high-resolution banner for a GitHub project titled 'Blockchain-Based Identity Verification (BBIV)'  The banner should be futuristic and visually app](https://github.com/user-attachments/assets/e0b75032-9c49-429a-b1bd-523fc5a8e8c7)
 
 
 ## Description
